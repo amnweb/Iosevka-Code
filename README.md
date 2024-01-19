@@ -1,7 +1,6 @@
 ## Iosevka Code
 
-A code-focused variant of the Iosevka font family.
-Including Regular, Condensed and Nerd Font.
+A code-focused variant of the Iosevka font family, including Regular, Condensed and Nerd Font.
 
 ## Example
 
